@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cauliemac
+- 📖 Self taught, so please excuse the non-standard code
 - 👀 I’m interested in: physics, quantum, security, and crypto (buzzwords essentially)
 - 🌱 I’m currently learning about: life
 - 💞️ I’m looking to collaborate on: life
