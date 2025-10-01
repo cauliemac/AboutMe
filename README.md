@@ -2,10 +2,9 @@
 - 📖 Self taught, so please excuse the non-standard code
 - 👀 I’m interested in: physics, quantum, security, and crypto (buzzwords essentially)
 - 🌱 I’m currently learning about: life
-- 💞️ I’m looking to collaborate on: life
+- 💞️ I’m looking to collaborate on: engineering
 - 📫 How to reach me: @cauliemac most places
 
-- Sometimes this coding gets very hard.
 - And giving up and herding alpaca's seeems like a better alternative
 
 <!---
